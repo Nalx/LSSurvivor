@@ -1,0 +1,7 @@
+Mapa: First Boss -> Scif-arg
+Mida: 17 17
+Columnes: 10  3 2 1 0  3 3 1 0  3 4 1 0  3 5 1 0  3 6 1 0  13 2 1 0  13 3 1 0  13 4 1 0  13 5 1 0  13 6 1 0 
+LSSurvivor: 9 2
+Dispensadors: 4 5 4 0 12 3 180 8 8 90 10 8 90
+Dificultat: 1
+NumEnemics: 4
